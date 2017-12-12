@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A bright ray of sunshine unveils the darkness.
 
-Things you may want to cover:
+Suddenly there was only light in the hearts of the villagers.
 
-* Ruby version
+They stood, with gratitude in their hears, and sang together a prayer to the Universe.
 
-* System dependencies
+Their voices echoed across the canyon floor.
 
-* Configuration
+Their tears became streams.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Washing away all sorrows with their tears, only joy was left in the wake of the Sun!
